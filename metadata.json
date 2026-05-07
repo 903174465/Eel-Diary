@@ -1,0 +1,6 @@
+{
+  "name": "鳗鱼日记（机窗）",
+  "description": "",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
